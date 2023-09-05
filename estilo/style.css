@@ -175,10 +175,12 @@ header>p{
 }
     article>h1{
         font-family: var(--font-android);
+        text-align: left;
         
     }
     article>h2{
         font-family: var(--font-android);
+        text-align: left;
     }
 
     footer{
