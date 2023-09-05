@@ -183,6 +183,7 @@ header>p{
     article>h2{
         font-family: var(--font-android);
         text-align: left;
+        color:#015520;
     }
 
     footer{
