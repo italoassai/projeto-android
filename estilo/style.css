@@ -97,6 +97,7 @@ main{
            article>h1{
 
             color: #015520;
+            text-align: left;
            }
 
         
@@ -176,6 +177,7 @@ header>p{
     article>h1{
         font-family: var(--font-android);
         text-align: left;
+        margin: auto;
         
     }
     article>h2{
